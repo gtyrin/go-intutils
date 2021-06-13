@@ -1,3 +1,3 @@
-module github.com/gtyrin/go-intutils
+module github.com/ytsiuryn/go-intutils
 
 go 1.16
